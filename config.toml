@@ -1,0 +1,12 @@
+baseurl = "http://smakarau.me"
+title = "Siarhei Makarau"
+theme = "dimension"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+disableKinds=["RSS"]
+
+[params]
+  description = '<!--[-->DevOps Engineer<!--]--></br><!--[-->Gamer<!--]--></br><!--[-->Music lover<!--]--></br><!--[-->Traveler<!--]--></br><!--[-->Geek<!--]-->'
+  logo = "fa-gamepad"
+  copyright = "Siarhei Makarau"
