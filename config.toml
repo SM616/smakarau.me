@@ -10,3 +10,23 @@ disableKinds=["RSS"]
   description = '<!--[-->DevOps Engineer<!--]--></br><!--[-->Gamer<!--]--></br><!--[-->Music lover<!--]--></br><!--[-->Traveler<!--]--></br><!--[-->Geek<!--]-->'
   logo = "fa-gamepad"
   copyright = "Siarhei Makarau"
+
+[[params.social]]
+  medium = "email"
+  icon = "envelope"
+  link = "mailto:siarhei.makarau@gmail.com"
+
+[[params.social]]
+  medium = "github"
+  icon = "github"
+  link = "https://github.com/SM616"
+
+[[params.social]]
+  medium = "linkedin"
+  icon = "linkedin"
+  link = "https://www.linkedin.com/in/siarheimakarau"
+
+[[params.social]]
+  medium = "instagram"
+  icon = "instagram"
+  link = "https://www.instagram.com/siarhei.makarau"
