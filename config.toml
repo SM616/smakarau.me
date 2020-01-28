@@ -30,3 +30,8 @@ disableKinds=["RSS"]
   medium = "instagram"
   icon = "instagram"
   link = "https://www.instagram.com/siarhei.makarau"
+
+[[params.social]]
+  medium = "twitter"
+  icon = "twitter"
+  link = "https://twitter.com/siarhei_makarau"
