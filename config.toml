@@ -7,7 +7,7 @@ enableRobotsTXT = true
 disableKinds=["RSS"]
 
 [params]
-  description = '<!--[-->DevOps Engineer<!--]--><br><!--[-->Gamer<!--]--><br><!--[-->Music lover<!--]--><br><!--[-->Traveler<!--]--><br><!--[-->Geek<!--]-->'
+  description = '<span>DevOps Engineer</span><span>Gamer</span><span>Music lover</span><span>Traveler</span><span>Geek</span>'
   logo = "fa-gamepad"
   copyright = "Siarhei Makarau"
 
