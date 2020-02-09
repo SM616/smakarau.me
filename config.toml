@@ -8,7 +8,7 @@ disableKinds=["RSS"]
 
 [params]
   description = '<span>DevOps Engineer</span><span>Gamer</span><span>Music lover</span><span>Traveler</span><span>Geek</span>'
-  logo = "fa-gamepad"
+  logoimage = "images/photo.jpg"
   copyright = "Siarhei Makarau"
 
 [[params.social]]
