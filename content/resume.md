@@ -6,9 +6,9 @@ draft: false
 
 ### Professional experience
 
-**Lead, Infrastructure**
-**Wargaming**
-*October 2020 - March 2022*
+**Lead, Infrastructure**  
+**Wargaming**  
+*October 2020 - March 2022*  
 
 Running distributed infrastructure engineering team (5 people in Belarus and Lithuania), working on infrastructure platform for several unannounced mobile games created with Unreal Engine.
 * Built a DevOps team for a game project, with its later transformation to studio-wide infrastructure department, collaborating with several game projects at once;
@@ -42,7 +42,6 @@ Maintaining non-production infrastructure in AWS (500+ instances) for one of lea
 * Owned infrastructure as code solutions created with AWS CloudFormation and Ansible (20+ reusable roles written).
 * Set up highly available and fault tolerant infrastructure in AWS using CloudFormation, EC2 and RDS services (20+ environments created).
 
-
 **Junior Systems Engineer**  
 **EPAM Systems**  
 *June 2013 – March 2014*  
@@ -54,12 +53,12 @@ Maintaining non-production infrastructure in AWS (500+ instances) for one of lea
 ### Education
 **Master of Science, Engineering Psychology**  
 Belarusian State University of Informatics and Radioelectronics  
-*2014-2016*  
+*2014 - 2016*  
 
 **Bachelor of Science, Information Technologies and Control in Technical Systems**  
 Belarusian State University of Informatics and Radioelectronics  
 *2009 - 2014*  
 
 ### Certifications
-**AWS Certified Solutions Architect**,
-Sep 2020 – Sep 2023, [Credential Link](https://www.credly.com/badges/a4113ff8-fe86-4322-ba94-97b5e8dc5279/public_url)
+**AWS Certified Solutions Architect**,  
+Sep 2020 – Sep 2023, [Credential Link](https://www.credly.com/badges/a4113ff8-fe86-4322-ba94-97b5e8dc5279/public_url)  
